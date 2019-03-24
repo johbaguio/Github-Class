@@ -7,3 +7,6 @@ function getDifference (a,b) {
 
 console.log(getDifference(10,4));
 console.log(getDifference(8,6));
+
+//Hope it works
+console.log(getDifference(7,3));
