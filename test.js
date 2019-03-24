@@ -1,7 +1,9 @@
+const testing = function(){
+console.log ('you are a great person') };
+
 function getDifference (a,b) {
     return a - b;
 }
 
-console.log(getSum(10,4));
-console.log(getSum(8,6));
-
+console.log(getDifference(10,4));
+console.log(getDifference(8,6));
