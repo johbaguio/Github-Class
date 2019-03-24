@@ -1,4 +1,4 @@
-
+const b = a-b
 const testing = function(){
 console.log ('you are a great person') };
 
