@@ -2,8 +2,8 @@
 const testing = function(){
 console.log ('you are a great person') };
 
-function getDifference (a,b) {
-    return a - b;
+function getDifference (a, c,b) {
+    return a - b +c;
 }
 
 console.log(getDifference(10,4));
